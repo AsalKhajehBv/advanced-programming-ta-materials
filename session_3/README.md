@@ -1,4 +1,4 @@
-# Library
+# Session 3: Library
 
 - A library is a collection of code (functions, classes, modules) that can be reused in multiple projects.
 
@@ -21,7 +21,6 @@ math_tools_project/
 │
 ├── math_tools/
 │   ├── __init__.py
-
 │   ├── operations.py
 │
 ├── tests/
