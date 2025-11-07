@@ -1,0 +1,21 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+env/
+venv/
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# Environment files
+.env
+.envrc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
