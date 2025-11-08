@@ -14,7 +14,7 @@
 Clone the repository and install locally in **editable mode** (good for testing and development):
 
 ```bash
-git clone git clone https://github.com/AsalKhajehBv/advanced-programming-ta-materials.git
+git clone https://github.com/AsalKhajehBv/advanced-programming-ta-materials.git
 cd advanced-programming-ta-materials/session_3/math_tools_project/math_tools
 pip install -e .
 ```
