@@ -4,6 +4,12 @@
 
 - Hosting it on GitHub allows others to see, download, and contribute to it.
 
+|Term | What it is |
+|-----|------------|
+|Module | Single .py file|
+|Package | Folder containing __init__.py and modules|
+|Library | Collection of related packages|
+
 ## Tools You Need
 
 - Python installed

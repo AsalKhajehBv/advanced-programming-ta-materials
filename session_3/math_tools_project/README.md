@@ -1,6 +1,6 @@
-# math_tools
+# math_tools (Package)
 
-**math_tools** is a small Python library containing math helper functions, designed for quick use in projects.
+**math_tools_project** is a small Python library containing math helper functions, designed for quick use in projects.
 
 
 ## **Features**
@@ -15,6 +15,6 @@ Clone the repository and install locally in **editable mode** (good for testing 
 
 ```bash
 git clone git clone https://github.com/AsalKhajehBv/advanced-programming-ta-materials.git
-cd advanced-programming-ta-materials/session_3/math_tools_project/math_tools
+cd advanced-programming-ta-materials/session_3/math_tools_project
 pip install -e .
 ```
